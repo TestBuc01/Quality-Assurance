@@ -43,3 +43,8 @@
 
 
 > &#x1F539; Test objective - A reason or purpose for designing and executing a test.
+
+
+Terms Set 1.5
+
+> &#x1F539; Independence - Separation of responsibilities, which encourages the accomplishment of objective testing.
