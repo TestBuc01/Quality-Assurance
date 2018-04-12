@@ -4,7 +4,7 @@
 
 
 
-> Defect - a flaw in a component or system that can cause the component or system to fail to 	perform its required function, an incorrect statement or data definition.
+> &#x1F539; Defect - a flaw in a component or system that can cause the component or system to fail to 	perform its required function, an incorrect statement or data definition.
 	- mistakes makes by people during the design and built.
 
 > Error - a human action that produces an incorrect result.
