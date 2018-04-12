@@ -1,6 +1,4 @@
-# Quality-Assurance
-
-# Glossary
+# Quality-Assurance Glossary
 
 ### FOUNDATIONS OF SOFTWARE TESTING (ISTQB CERTIFICATION)
 
