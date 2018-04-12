@@ -33,4 +33,13 @@
 
 > &#x1F539; Requirement - a condition or capability needed by an user to solve a problem or achieve an objective that must be met or possessed by a system or system component to satisfy 	a contract, standard, specification, or other formally imposed document.
 
-> &#x1F539; sReview - an evaluation of a product or project status to ascertain discrepancies from planned results and to recommend improvements. Examples include management review, 	informal review, technical review, inspection, and wallkthrough.
+> &#x1F539; Review - an evaluation of a product or project status to ascertain discrepancies from planned results and to recommend improvements. Examples include management review, 	informal review, technical review, inspection, and wallkthrough.
+
+> &#x1F539; Test basis - All documents from which the requirements of a component or system can be inferred. The documentation on which the test cases are based. If a document can be amended only by way of formal amendment procedure, then the test basis is called a frozen test basis.
+
+> &#x1F539; Teste case - A set of input values, execution preconditions, expected results and execution postconditions, developed for a particular objective or test condition, such as to exercise a particular program path or to verify compliance with a specific requirement.
+
+> &#x1F539; Testing - The process consisting of all lifecycle activities, both static and dynamic, concerned with planning, preparation and evaluation of software products and related work products to determine that they satisfy specified requirements, to demonstrate that they are fit for purpose and to detect defects.
+
+
+> &#x1F539; Test objective - A reason or purpose for designing and executing a test.
