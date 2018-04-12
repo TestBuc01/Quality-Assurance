@@ -45,6 +45,7 @@
 > &#x1F539; Test objective - A reason or purpose for designing and executing a test.
 
 
+<<<<<<< HEAD
 # Terms Set 1.3
 
 > &#x1F539; Testing shows presence of defects - Testing can show that defects are present, but cannot prove that there are no defects. Testing reduces the probability of undiscovered defects remaining in the software but, even if no defects are found, it is not a proof of correctness.
@@ -93,3 +94,8 @@
 > &#x1F539; Test summary report - A document summarizing testing activities and results. It also contains an evaluation of the corresponding test items against exit criteria.
 
 > &#x1F539; Testware - Artifacts produced during the test process required to plan, design, and execute tests, such as documentation, scripts, inputs, expected results, set-up and clear-up procedures, files, databases, environment, and any additional software or utilities used in testing.
+=======
+# Terms Set 1.5
+
+> &#x1F539; Independence - Separation of responsibilities, which encourages the accomplishment of objective testing.
+>>>>>>> master
