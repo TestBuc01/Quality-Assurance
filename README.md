@@ -13,3 +13,5 @@ http://glossary.istqb.org/
 > v.03: testing shows presence of defects, exhaustive testing is impossible, early testing, defect clustering, pesticide paradox, testing is context dependent, absence-of-errors fallacy
 
 > v.04: confirmation testing, exit criteria, incident, regression testing, test basis, test condition, test coverage, test data, test execution, test log, test plan, test strategy, test summary report, testware.
+
+> v.05: independence 
