@@ -1,7 +1,7 @@
 {
   “firstName”: “Jonathan”,
   “lastName”: “Freeman”,
-  “loginCount”: 4,
+  “loginCount”: "4",
   “isWriter”: true,
   “worksWith”: [“Spantree Technology Group”, “InfoWorld”],
   “pets”: [
