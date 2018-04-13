@@ -1,20 +1,3 @@
-
- {
-   "Name" : 
-   "John Doe",
-  "PermissionToCall" :
-     true,
-  "PhoneNumbers" :
-  [ 
-     { "Location": "Home",
-     "Number": 
-       "555-555-1234" },
-  { "Location": "Work",
-    "Number": 
-      "555-555-9999" }
-  ]
- }
-
 {
  
  "posts": [
