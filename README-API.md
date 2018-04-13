@@ -4,6 +4,10 @@
 
 Links: 
 
+https://my-json-server.typicode.com/TestBuc01/Quality-Assurance
+
+http://json-schema.org/example1.html
+
 https://s3-eu-west-1.amazonaws.com/kurapov/file/166.pdf
 
 http://glossary.istqb.org/
