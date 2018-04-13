@@ -1,13 +1,5 @@
-{
-  “firstName”: “Jonathan”,
-  “lastName”: “Freeman”,
-  “loginCount”: "4",
-  “isWriter”: true,
-  “worksWith”: [“Spantree Technology Group”, “InfoWorld”],
-  “pets”: [
-    {
-      “name”: “Lilly”,
-      “type”: “Raccoon”
-    }
-  ]
-}
+var jason = {
+	"age" : "24",
+	"hometown" : "Missoula, MT",
+	"gender" : "male"
+};
