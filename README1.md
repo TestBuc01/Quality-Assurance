@@ -9,3 +9,5 @@
 > [YOUR STORY - Keyboard] - Attempting to choose another team after inserting an input text on a desired team page, displays
                 automatically the keyboard on the requested page.
                 
+> [CHOOSE YOUR TEAM - Keyboard overlapped] - In a certain scenario, attempting to choose another team after inserting an input 
+                text on a desired team page, displalys the keyboard overlapped. 
