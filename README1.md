@@ -36,6 +36,7 @@
 
 >[WHAT'S YOUR STORY? - 'ADD YOUR PHOTO' Button] - After inserting the input on the required cell, pressing the 'ADD YOUR
               PHOTO' button opens the 'Select images' menu.
+              
 >[ADJUST YOUR PHOTO - 'DONE' Button] - After cropping the uploaded picture, attempting to press the 'DONE' button displays
               a hint(tips) message and a sharing button.
               
