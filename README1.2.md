@@ -55,7 +55,7 @@ teams, so that the application is more attractive.
                Description -> Implement page scrolling bar.
                
       > TASK : Summary -> 'Choose your team' icon's effects
-               Description -> 
+               Description -> Implement a lazy load effect of the icons of the teams.
       
       > TASK: Summary -> 'Choose your team' icon teams
               Description -> Display teams icons in two columns of 8 teams.
