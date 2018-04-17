@@ -63,7 +63,7 @@ with teams templates and share them on social platforms or saving on their own d
 
 # USER STORY #SHAREYOURMOMENT PAGE
 
-> As a client, I want 4 pages, where users can they can create their personalized picture, respecting every step. 
+> As a client, I want 4 pages, where users can create their personalized picture, respecting every step. 
       
       > TASK: Summary -> 'Share your moment' elements
               Description: Implement sharing button on facebook platform, which has the following specs:
