@@ -1,7 +1,8 @@
 # EPIC
 
 > TITLE: As a client, I want a web aplication for mobile's dedicated for promoting the r league, so that the users can find the experience of this sport.
-  DESCRIPTION : As a client, I want a web aplication for mobile devices, where the users can create personalized pictures
+
+> DESCRIPTION : As a client, I want a web aplication for mobile devices, where the users can create personalized pictures
 with teams templates and share them on social platforms or saving on their own devices. 
 
 
