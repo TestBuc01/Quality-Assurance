@@ -1,8 +1,8 @@
 # EPIC
 
-> As a client, I want a web aplication for mobile's dedicated for promoting the r league, so that the users can find the 
-experience of this sport.
-
+> TITLE: As a client, I want a web aplication for mobile's dedicated for promoting the r league, so that the users can find the experience of this sport.
+  DESCRIPTION : As a client, I want a web aplication for mobile devices, where the users can create personalized pictures
+with teams templates and share them on social platforms or saving on their own devices. 
 
 
 
@@ -10,8 +10,7 @@ experience of this sport.
 
 # USER STORY #HOMEPAGE
 
-> As a client, I want a customized homepage where the users can find related photos from other users experience with different 
-teams, so that the application is more attractive. 
+> As a client, I want a customized homepage where the users can find related photos from other users experience with different teams, so that the application is more attractive. 
 
       > TASK: Summary -> Homepage design
               Description -> Implement a photo galery on the front of the page, with the possibility of sliding to the left/
