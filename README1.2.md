@@ -39,7 +39,7 @@ with teams templates and share them on social platforms or saving on their own d
               conditions' and 'Privacy Policy'.
               
               
-# USER STORY #CHOOSEYOURTEAM 
+# USER STORY #CHOOSEYOURTEAM PAGE
 
 > As a client, I want a web app. page with a list of the teams icons , so that users can choose their desired team.
       > TASK: Summary -> 'Choose your team' page design 
@@ -60,4 +60,19 @@ with teams templates and share them on social platforms or saving on their own d
       > TASK: Summary -> 'Choose your team' icon teams
               Description -> Display teams icons in two columns of 8 teams.
       
+
+# USER STORY #SHAREYOURMOMENT PAGE
+
+> As a client, I want 4 pages, where users can they can create their personalized picture, respecting every step. 
       
+      > TASK: Summary -> 'Share your moment' elements
+              Description: Implement sharing button on facebook platform, which has the following specs:
+                                          - rectangle button, with orange border
+                                          - white text inside : 'SHARE TO FACEBOOK'
+                           Implement a restart hyperlink, under 'share to facebook' button, which redirects the use to homapage. On the left side of text 'START OVER' attach a reload orange icon.
+                           
+                          Implement a helpful text, on top of the 'Share to facebook button' :
+                                          - text color: orange
+                                          - text: 'PRESS AND HOLD TO SAVE YOUR MOMENT'
+                          Implement canvas element, with r teams template.
+                           
