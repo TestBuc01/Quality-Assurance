@@ -8,13 +8,14 @@ all the rugby fans can enjoy the sportive competition.
 
 > Description:
   As a sponsor I want that our mobile application to have:
-    -an intro with fans pictures
-    -depending on the team they support, the users can personalize their own photo
-    -the possibility to share their passion with others on Facebook 
+    > -an intro with fans pictures
+    > -depending on the team they support, the users can personalize their own photo
+    > -the possibility to share their passion with others on Facebook 
     
     
  
  #Issue-Story
+ 
  #Page 3(Story And Photo)
  > Title: As a campaign sponsor I want that the users of the application to personalize their own photo with their desired 
  team emblem so that they can feel like they are part of their favorite team.
@@ -23,26 +24,24 @@ all the rugby fans can enjoy the sportive competition.
  important moment when they decided to support the desired team.
  
  #Task
+ >Summary: Implement ADD YOUR STORY button
  
- >Summary: Implement WHAT'S YOUR STORY section
+ >Description: Implement a ADD YOUR STORY rectangular button, with yellow border wich access an input field located under the logo where the user specifies the moment when he started to support his favorite team.
  
- >Description: The logo must contain a bar where the user specify the moment when he started to support his favorite team.
- 
- 
- 
+ #Task
  >Summary: Implement ADD YOUR PHOTO button 
  
- >Description: Clicking on the ADD YOUR PHOTO button dislays a menu where the use choose if he take a new photo or he uses 
- one from gallery.
+ >Description: Implement a ADD YOUR PHOTO button rectangular button, with yellow border which displays a selecting photo menu from wich the user chooses if he takes a new photo or he uses one from gallery.
  
- >Summary:
+ #Task
+ >Summary: Implement BACK button
  
- >Description:
+ >Description: Implement a BACK button in the left side of the header page.
  
  
- >Summary:Implement DONE button
+ >Summary:Implement ADJUST YOUR PHOTO button
  
- >Description:
+ >Description: Implement the ADJUST YOUR PHOTO PAGE with the adjusting photo functionality and a DONE button wich redirects the user to the SHARE YOUR MOMENT page.
  
  
  #Page 4(SHARE YOUR MOMENT)
@@ -54,6 +53,7 @@ all the rugby fans can enjoy the sportive competition.
                 -share their photos on a social network like Facebook
                 -save their photos on their phones
                 -restart the proccess whenever needed
+  
   #Task
   
   >Summary:
