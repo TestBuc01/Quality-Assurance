@@ -8,9 +8,9 @@ all the rugby fans can enjoy the sportive competition.
 
 > Description:
   As a sponsor I want that our mobile application to have:
-    > -an intro with fans pictures
-    > -depending on the team they support, the users can personalize their own photo
-    > -the possibility to share their passion with others on Facebook 
+     -an intro with fans pictures
+     -depending on the team they support, the users can personalize their own photo
+     -the possibility to share their passion with others on Facebook 
     
     
  
